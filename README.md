@@ -13,13 +13,13 @@ To set up the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://lamirezsantos@bitbucket.org/review2502/technical-assessment.git
+   git clone https://github.com/Kirolos-Victor/nodejs-fullstack-app
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd technical-assessment
+   cd path/to/your/project
    ```
 
 3. Install dependencies and start the application:
